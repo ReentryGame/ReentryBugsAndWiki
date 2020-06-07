@@ -11,6 +11,8 @@ matchBody: true
 labelMappings:
     "[WIP]": WIP
     "academy": academy
+    "tutorial": academy
+    "Tutorial": academy
     "lm": apollo-lm
     "lem": apollo-lm
     "LM": apollo-lm
