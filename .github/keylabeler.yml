@@ -12,10 +12,20 @@ labelMappings:
     "[WIP]": WIP
     "academy": academy
     "lm": apollo-lm
+    "lem": apollo-lm
+    "LM": apollo-lm
+    "LEM": apollo-lm
     "csm": apollo-csm
+    "CSM": apollo-csm
+    "cm": apollo-csm
+    "CM": apollo-csm
     "mercury": mercury
+    "Mercury": mercury
     "gemini": gemini
+    "Gemini": gemini
     "typo": typo
+    "Typo": typo
     "typos": typo
+    "Typos": typo
     "guidance": guidance
     hooks: documentation
